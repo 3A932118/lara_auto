@@ -1,0 +1,10 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "建立lara_auto",
+    "authors": [
+        {
+            "name": "Tim"
+        }
+    ],
+    "require": {}
+}
